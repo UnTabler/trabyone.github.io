@@ -3,8 +3,8 @@
 
 title: Hagura - Light!
 baseurl: /hagura # name of the repository
-email: your@email.com
-
+email: trabolkia@github.com
+remote_theme : sharu725/hagura
 
 
 highlighter: rouge
@@ -49,3 +49,5 @@ exclude:
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
+  
+
